@@ -1,0 +1,16 @@
+/* import url (../reindeer/legacy-styles.css);*/
+
+.test{
+    color: #ff4500;
+}
+
+.mytheme {
+    padding-top: 10px;
+    padding-left: 100px;
+    color: #ff4500;
+}
+
+.tester {
+    font-weight: bold;
+    color: red;
+}
